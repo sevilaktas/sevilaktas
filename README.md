@@ -2,8 +2,7 @@
 - 👀 I’m interested in ai/time series analysis
 - 🌱 I’m currently learning arima modelling & forecasting 
 - 💞️ I’m looking to collaborate on open source ai projects
-- 📫 How to reach me: sevillaaktas@gmail.com
-- [linkedin](https://www.linkedin.com/in/sevilaktas/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sevilaktas/), [Instagram](https://www.instagram.com/sevil.akts/)
 
 <!---
 sevilaktas/sevilaktas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
