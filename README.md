@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning arima modelling & forecasting 
 - 💞️ I’m looking to collaborate on open source ai projects
 - 📫 How to reach me: sevillaaktas@gmail.com
+- [linkedin](https://www.linkedin.com/in/sevilaktas/)
 
 <!---
 sevilaktas/sevilaktas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
